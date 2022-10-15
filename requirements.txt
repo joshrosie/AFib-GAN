@@ -1,0 +1,14 @@
+numpy>=1.14.3
+pandas>=0.22
+# tensorflow # if running on windows
+# tensorboard 
+tensorflow-macos # if running on mac
+scipy>=1.1
+scikit-learn>=0.20
+tqdm>=4.26
+wfdb >= 2.2.1
+opencv-python
+Pillow
+matplotlib
+sklearn 
+ipykernel
